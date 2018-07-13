@@ -17,6 +17,9 @@
     "url": "https://github.com/erin-doyle/storefront-iframe-test-app/issues"
   },
   "homepage": "https://github.com/erin-doyle/storefront-iframe-test-app#readme",
+  "engines": {
+    "node": "6.x"
+  },
   "dependencies": {
     "express": "^4.16.3"
   }
