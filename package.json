@@ -1,26 +1,16 @@
 {
   "name": "@cashstar/storefront-iframe-test-app",
-  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/erin-doyle/storefront-iframe-test-app.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/erin-doyle/storefront-iframe-test-app/issues"
-  },
-  "homepage": "https://github.com/erin-doyle/storefront-iframe-test-app#readme",
   "engines": {
     "node": "6.x"
   },
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.3"
   }
 }
